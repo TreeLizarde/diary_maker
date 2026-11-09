@@ -1,7 +1,7 @@
 # Diary Maker
 
-A command-line diary application written in Python.  
-This project allows you to create, view, and manage diary entries, each with optional tags for easy searching and organization.
+A command-line diary application written in Python, storing entries in .json files.  
+This project allows you to create, view, and manage diary entries, each with optional tags for easy searching and organisation.
 
 ## Features
 
